@@ -216,7 +216,7 @@ print("나누기 : ",div(x, y)) """
 
 # 5개의 숫자를 입력받아 총합을 출력하는 함수
 
-def sum_num(num):
+""" def sum_num(num):
     return sum(num)
 
 nums = []
@@ -225,11 +225,4 @@ for i in range(1, 6):
     innum = int(input(f"{i} 번째 숫자 입력 : "))
     nums.append(innum)
     
-print(sum_num(nums))
-
-
-
-
-
-
-
+print(sum_num(nums)) """
